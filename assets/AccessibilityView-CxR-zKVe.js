@@ -1,0 +1,1 @@
+import{_ as t,c as n,a as s,o}from"./index-BIyKe1aC.js";const c={name:"AccessibilityView"};function a(i,e,r,l,p,u){return o(),n("div",null,[...e[0]||(e[0]=[s("h1",null,"Доступность",-1),s("p",null,"Страница настроек доступности",-1)])])}const d=t(c,[["render",a]]);export{d as default};
